@@ -20,7 +20,7 @@ here's the user input:
 # 2. Build Queries Prompt
 build_queries = agent_prompt + """
 Your first objective is to break down the user's input into a series of specific, targeted research queries that will help gather relevant information.
-Generate a list of 5-10 concise and specific research queries that cover different aspects of the user's input.
+Generate a list of 4 concise and specific research queries that cover different aspects of the user's input.
 Answer with anything between 3-10 queries.
 """
 
